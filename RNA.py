@@ -22,11 +22,15 @@ Return: The transcribed RNA string of t.
 
 if __name__ == "__main__":
     
+    # Print problem name
+    print "\nRNA - Transcribing DNA into RNA"
+    
     # Read the input from the text file and close the text file after reading
     text_file = open("rosalind_rna.txt", "r")
     t = text_file.readlines()[0].strip()
     text_file.close()
     
+    # Change all 'T's to 'U's
     t = list(t)
     for i in range(len(t)):
         if (t[i] == 'T'):
@@ -35,4 +39,5 @@ if __name__ == "__main__":
         
         
     # Display the result
-    print "The result of RNA - Transcribing DNA into RNA is : ", t
+    print "\nGiven the DNA string", t
+    print "\nCorresponding RNA string is : ", t

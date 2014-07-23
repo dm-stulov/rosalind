@@ -27,6 +27,9 @@ import numpy as np
 
 if __name__ == "__main__":
     
+    # Print problem name
+    print "\nDNA - Counting DNA Nucleotides"
+    
     # Read the input from the text file and close the text file after reading
     text_file = open("rosalind_dna.txt", "r")
     s = text_file.readlines()[0].strip()
@@ -41,6 +44,7 @@ if __name__ == "__main__":
         counts.append(s.count(symbol))
         
     # Display the result
-    print "The result of DNA - Counting DNA Nucleotides is : ", counts
+    print "\nGiven the DNA string", s
+    print "\nNucleotide counts are : ", counts
     
     
