@@ -37,7 +37,6 @@ if __name__ == "__main__":
             t[i] = 'U'
     t = ''.join(t)
         
-        
     # Display the result
     print "\nGiven the DNA string", t
     print "\nCorresponding RNA string is : ", t
