@@ -16,7 +16,6 @@ Return: A file containing all the even-numbered lines from the original file. As
 '''
 
 # Import necessary modules
-import numpy as np
 from itertools import islice
 
 if __name__ == "__main__":
@@ -24,19 +23,6 @@ if __name__ == "__main__":
     # Print problem name
     print "\nINI5 - Working with Files"
     
-    # Run the algorithm
-    
-    
+    # Run the algorithm - read every other line and write to an output file
     with open("rosalind_ini5.txt") as fin, open('output.txt', 'w') as fout:
-        fout.writelines(islice(fin, None, None, 2))
-    
-    '''
-    text_file_read = open("rosalind_ini5.txt", "r")
-    a =text_file_read.readline()
-
-    s = text_file_read.readlines()
-    text_file_read.close()
-    
-    text_file_write = open("Output.txt", "w")
-    text_file_write.write(str(s[1::2]))
-    text_file_write.close()'''
+        fout.writelines(islice(fin, 1, None, 2))
