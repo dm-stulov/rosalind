@@ -1,7 +1,7 @@
 ''' 
         Author : Oguzhan Gencoglu - oguzhangencoglu90@gmail.com
- Creation Date : 03.08.2014
-Latest Version : 03.08.2014
+ Creation Date : 04.08.2014
+Latest Version : 04.08.2014
 
 Solution of problem with the ID INI2 - Variables and Some Arithmetic
 in Rosalind.
