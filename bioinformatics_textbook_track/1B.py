@@ -7,6 +7,7 @@ Solution of problem with the ID 1B - Reverse Complement Problem in Rosalind.
 '''
 
 '''
+Category: Bioinformatics Textbook Track
 Problem : 1B - Reverse Complement Problem
 
 In DNA strings, symbols 'A' and 'T' are complements of each other, as are 'C' 
