@@ -8,6 +8,7 @@ Rosalind.
 '''
 
 '''
+Category: Bioinformatics Stronghold
 Problem : REVC - Complementing a Strand of DNA
 
 In DNA strings, symbols 'A' and 'T' are complements of each other, as are 'C' 
