@@ -8,6 +8,7 @@ in Rosalind.
 '''
 
 '''
+Category: Python Village
 Problem : INI2 - Variables and Some Arithmetic
 
 Given: Two positive integers a and b, each less than 1000.
