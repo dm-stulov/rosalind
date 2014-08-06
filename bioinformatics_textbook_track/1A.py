@@ -7,6 +7,7 @@ Solution of problem with the ID 1A - Frequent Words Problem in Rosalind.
 '''
 
 '''
+Category: Bioinformatics Textbook Track
 Problem : 1A - Frequent Words Problem
 
 Given: A DNA string s of length at most 1000 bp.
