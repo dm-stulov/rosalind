@@ -8,6 +8,7 @@ in Rosalind.
 '''
 
 '''
+Category: Python Village
 Problem : INI5 - Working with Files
 
 Given: A file containing at most 1000 lines.

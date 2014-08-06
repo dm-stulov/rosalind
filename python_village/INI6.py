@@ -8,6 +8,7 @@ in Rosalind.
 '''
 
 '''
+Category: Python Village
 Problem : INI6 - Dictionaries
 
 Given: A string s of length at most 10000 letters.
