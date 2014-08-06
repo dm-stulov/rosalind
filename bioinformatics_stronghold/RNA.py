@@ -7,6 +7,7 @@ Solution of problem with the ID RNA - Transcribing DNA into RNA in Rosalind.
 '''
 
 '''
+Category: Bioinformatics Stronghold
 Problem : RNA - Transcribing DNA into RNA
 
 An RNA string is a string formed from the alphabet containing 'A', 'C', 'G', 
