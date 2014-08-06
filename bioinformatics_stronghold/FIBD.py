@@ -9,6 +9,7 @@ in Rosalind.
 '''
 
 '''
+Category: Bioinformatics Stronghold
 Problem : FIBD - Mortal Fibonacci Rabbits
 
 Recall the definition of the Fibonacci numbers from “Rabbits and Recurrence 
