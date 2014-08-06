@@ -8,6 +8,7 @@ in Rosalind.
 '''
 
 '''
+Category: Python Village
 Problem : INI3 - Strings and Lists
 
 Given: A string s of length at most 200 letters and four integers a, b, c and d.

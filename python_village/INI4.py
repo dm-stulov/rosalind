@@ -8,6 +8,7 @@ in Rosalind.
 '''
 
 '''
+Category: Python Village
 Problem : INI4 - Conditions and Loops
 
 Given: Two positive integers a and b (a<b<10000).
