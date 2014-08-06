@@ -9,6 +9,7 @@ in Rosalind.
 '''
 
 '''
+Category: Bioinformatics Stronghold
 Problem : FIB - Rabbits and Recurrence Relations
 
 A sequence is an ordered collection of objects (usually numbers), which are 
