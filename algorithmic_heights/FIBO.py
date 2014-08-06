@@ -8,6 +8,7 @@ Solution of problem with the ID FIBO - Fibonacci Numbers in Rosalind.
 '''
 
 '''
+Category: Algorithmic Heights
 Problem : FIBO - Fibonacci Numbers
 
 Given: A positive integer n≤25.

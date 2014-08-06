@@ -7,6 +7,7 @@ Solution of problem with the ID DNA - Counting DNA Nucleotides in Rosalind.
 '''
 
 '''
+Category: Bioinformatics Stronghold
 Problem : DNA - Counting DNA Nucleotides
 
 A string is simply an ordered collection of symbols selected from some alphabet

@@ -8,6 +8,7 @@ in Rosalind.
 '''
 
 '''
+Category: Bioinformatics Armory
 Problem : INI - Introduction to the Bioinformatics Armory
 
 Given: A DNA string s of length at most 1000 bp.
